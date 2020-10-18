@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322144164714",
+    "firebase_url": "https://rtvfire.firebaseio.com",
+    "project_id": "rtvfire",
+    "storage_bucket": "rtvfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322144164714:android:a7fb5e1f169f710da7a313",
+        "android_client_info": {
+          "package_name": "com.example.currencies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322144164714-qfhdn5p6ffgfskt2el9el5vf0v11obb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FixN00gf5RuMGeJN8cE_znmLt3V_os0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322144164714-qfhdn5p6ffgfskt2el9el5vf0v11obb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
